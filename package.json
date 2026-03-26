@@ -9,7 +9,7 @@
   "author": "azureossd",
   "license": "ISC",
   "dependencies": {
-    "@azure/identity": "^4.13.0",
+    "@azure/identity": "^4.13.1",
     "@azure/keyvault-secrets": "^4.10.0",
     "azure-keyvault": "^3.0.5",
     "express": "^5.2.1",
